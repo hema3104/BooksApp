@@ -11,8 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import androidx.navigation.
-NavController
+import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import org.example.book.presentation.BookViewModel
 import org.koin.mp.KoinPlatform
