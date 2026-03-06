@@ -12,7 +12,7 @@ import org.koin.core.context.startKoin
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceStat
+        super.onCreate(savedInstanceState
         )
 
         // Start Koin
